@@ -1,6 +1,6 @@
 ## Architecture
- <video src="https://raw.githubusercontent.com/aliNassef/reactive_shop_example/master/reactive%20example.mp4" controls="controls" style="max-width: 100%;">
-</video>
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]
+(https://www.youtube.com/watch?v=VIDEO_ID)>
 
 ### Goal
 Show how product, wishlist, and cart flows can be handled with:

@@ -1,6 +1,4 @@
 ## Architecture
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]
-(https://www.youtube.com/shorts/4bxWbtSjHYk)>
 
 ### Goal
 Show how product, wishlist, and cart flows can be handled with:

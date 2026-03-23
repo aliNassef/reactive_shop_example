@@ -1,4 +1,5 @@
 ## Architecture
+<video controls src="reactive example.mp4" title="Title"></video>
 
 ### Goal
 Show how product, wishlist, and cart flows can be handled with:
